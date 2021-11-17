@@ -5,7 +5,17 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "La tarea 6 de desarrollo mobile con amadis en itla",
+    "orientation": "portrait", 
+    "icon": "./assets/homework.png",
+    "android": {
+      "package": "com.brandox02company.homework6amadis",
+      "versionCode": 1
+    },
+    "ios": {
+      "supportsTablet": true
+    }
   },
   "name": "tarea6"
 }
